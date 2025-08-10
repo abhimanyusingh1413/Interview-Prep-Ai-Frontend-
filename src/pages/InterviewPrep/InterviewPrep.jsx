@@ -136,6 +136,7 @@ const InterviewPrep = () => {
    
   return (
     <DashboardLayout>
+      <div className="w-full min-h-screen bg-[#FFFCEF] relative overflow-hidden">
       <RoleInfoHeader
         role={sessionData?.role || ""}
         topicsToFocus={sessionData?.topicsToFocus || ""}
@@ -229,6 +230,7 @@ const InterviewPrep = () => {
               )} 
           </Drawer>
         </div>
+      </div>
       </div>
     </DashboardLayout>
   )

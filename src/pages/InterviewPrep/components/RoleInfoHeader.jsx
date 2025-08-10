@@ -8,7 +8,7 @@ const RoleInfoHeader = ({
     description, 
     lastUpdated,
  }) => {
-  return <div className="bg-white relative">
+  return <div className="bg-[#FFFCEF] relative">
      <div className="container mx-auto px-10 md:px-0">
         <div className="h-[200px] flex flex-col justify-center relative z-10">
             <div className="flex items-start">
