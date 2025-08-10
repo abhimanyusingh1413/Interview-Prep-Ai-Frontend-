@@ -56,6 +56,7 @@ const Dashboard = () => {
 
   return (
     <DashboardLayout>
+      <div className="w-full min-h-screen bg-[#FFFCEF] relative overflow-hidden">
      <div className="container mx-auto pt-4 pb-4">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-7 pt-1 pb-6 px-4 md:px-0">
         {sessions?.map((data, index) => (
@@ -113,6 +114,7 @@ const Dashboard = () => {
         />
       </div>
       </Modal>
+      </div>
     </DashboardLayout>
   );
 };
