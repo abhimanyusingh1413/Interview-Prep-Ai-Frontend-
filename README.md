@@ -1,5 +1,5 @@
 ﻿# Interview-Prep-AI 🎯
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-InterviewPrepAI-green?style=for-the-badge&logo=vercel)](https://interviewprepai-1.vercel.app/)
 An intelligent interview preparation platform powered by AI that helps candidates practice and prepare for technical interviews with personalized questions and detailed explanations.
 
 ![Interview-Prep-AI](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
