@@ -10,6 +10,7 @@ An intelligent interview preparation platform powered by AI that helps candidate
 
 ## ✨ Features
 
+- **🌐 Live Demo**: [Try it now!](https://interviewprepai-1.vercel.app/)
 - **🤖 AI-Powered Question Generation**: Get personalized interview questions using Google's Gemini AI
 - **👤 User Authentication**: Secure login and registration system
 - **📋 Session Management**: Create and manage interview preparation sessions
